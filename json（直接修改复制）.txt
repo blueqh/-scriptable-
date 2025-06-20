@@ -1,0 +1,17 @@
+{
+  "code16": "你的车辆编号",
+  "headers": {
+    "Host": "intelligence.luyuan.cn",
+    "api-sign": "你的 api-sign",
+    "mocktoken": "你的 mocktoken",
+    "Accept": "*/*",
+    "Cookie": "你的 Cookie",
+    "Connection": "keep-alive",
+    "api-key": "你的 api-key",
+    "User-Agent": "LY_Intelligence/版本号 (设备信息)",
+    "Accept-Language": "zh-Hans-CN;q=1, en-CN;q=0.9",
+    "apptoken": "你的 apptoken",
+    "Accept-Encoding": "gzip, deflate, br"
+  },
+  "fullRangeKm": 60
+}
