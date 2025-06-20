@@ -24,7 +24,8 @@
   },
   "fullRangeKm": 60
 }
- 
+ ![IMG_6626](https://github.com/user-attachments/assets/12262fad-6a33-4509-ae63-05a631906b12)
+
 ❗请将以上内容中 你的 ... 替换为你通过抓包获取的实际值。fullRangeKm 填写你的电池满电理论续航，如 60、70、75 不需要写km。
 
 ⸻
