@@ -2,8 +2,9 @@
 
 此小组件适用于 iOS 上 Scriptable 应用，可显示电动车信息（如电量、续航、定位、健康状态等，右下角时间为数据最近一次刷新时间），无需打开官方 App。
 （我的车是绿源inno7，其他车型未测试）
-![IMG_6627](https://github.com/user-attachments/assets/58e366e2-f515-4ae7-9cc3-752944f53f78)
+![IMG_6629](https://github.com/user-attachments/assets/6a9d9910-b29e-4f96-b1ee-e4903c33afb8)
 ⸻
+
 
 ✅ 第一步：准备配置文件（配置文件需要抓包获取，具体方法可以自己搜一下）
 
