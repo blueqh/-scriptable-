@@ -1,6 +1,6 @@
 🛵 绿源电动车 Scriptable 小组件使用说明
 
-此小组件适用于 iOS 上 Scriptable 应用，可显示电动车信息（如电量、续航、定位、健康状态等），无需打开官方 App。
+此小组件适用于 iOS 上 Scriptable 应用，可显示电动车信息（如电量、续航、定位、健康状态等，右下角时间为数据最近一次刷新时间），无需打开官方 App。
 （我的车是绿源inno7，其他车型未测试）
 ![IMG_6627](https://github.com/user-attachments/assets/58e366e2-f515-4ae7-9cc3-752944f53f78)
 ⸻
